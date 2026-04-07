@@ -3,4 +3,4 @@
 Repositório criado para realização da atividade integradora
 
 ## Descrição
-Neste repositório foi criado arquivos e códigos genéricos em python somente para simular o desenvolvimento de um projeto em equipe, aplicando os conhecimentos de Git: criação de branches, merges e resolução de conflitos
+Neste repositório foi criado arquivos somente para simular o desenvolvimento de um projeto em equipe, aplicando os conhecimentos de Git: criação de branches, merges e resolução de conflitos.
