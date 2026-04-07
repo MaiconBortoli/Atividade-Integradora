@@ -1,1 +1,3 @@
 Criação de uma nova feature para o sistema
+
+Alteração para simular o conflito 
